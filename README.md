@@ -2,7 +2,7 @@
 CodePath Pre-Project
 
 ### App Walk-though
-https://gfycat.com/weeinexperienceddamselfly
+https://media.giphy.com/media/jtLbYkTEdQM50Mv8R1/giphy.gif
 
 
 ### Required User Stories
